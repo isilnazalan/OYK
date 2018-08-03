@@ -22,3 +22,6 @@ print(sozluk.pop('two')) #two'nun karşılığını(degerini) verir
 print(sozluk.keys())  #butun key'leri yazdırır
 print(sozluk.values()) #değerleri yazdırır
 print(sozluk.items())
+
+# {"key"  : "value"}
+# {"kişi" : "telefon num"}

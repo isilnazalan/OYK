@@ -1,0 +1,4 @@
+ogrenciler = {
+    "120101003":{"vize": 80, "final": 90},
+    "120101004":{"vize": 30, "final": 50}
+}120101003 numarali ogrencinin vizesi :80 finali: 90120101004 numarali ogrencinin vizesi :30 finali: 50120101003 numarali ogrencinin vizesi :80 finali: 90120101004 numarali ogrencinin vizesi :30 finali: 50120101004 numarali ogrencinin vizesi :30 finali: 50120101003 numarali ogrencinin vizesi :80 finali: 90120101004 numarali ogrencinin vizesi :30 finali: 50120101003 numarali ogrencinin vizesi :80 finali: 90120101004 numarali ogrencinin vizesi :30 finali: 50120101003 numarali ogrencinin vizesi :80 finali: 90120101004 numarali ogrencinin vizesi :30 finali: 50120101003 numarali ogrencinin vizesi :80 finali: 90120101003 numarali ogrencinin vizesi :80 finali: 90120101004 numarali ogrencinin vizesi :30 finali: 50120101004 numarali ogrencinin vizesi :30 finali: 50120101003 numarali ogrencinin vizesi :80 finali: 90

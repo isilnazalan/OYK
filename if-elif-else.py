@@ -3,10 +3,9 @@
 #61-80 bb
 #80-100 aa
 from builtins import print, int
-"""
+
 vize = int(input("Notunuzu girin:"))
 final = int(input("Final notunuzu girin:"))
-"""
 """
 
 if type(vize) == "int" and type(final) == "int":
